@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* Additional CSS classes */
+.team-container {
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-top: 3em;
+}
+.info {
+  border: 2px solid white;
+  margin: 10px;
+}
